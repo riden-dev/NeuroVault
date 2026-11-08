@@ -1,0 +1,81 @@
+# ==========================================
+# Android Git Hygiene & Build Artifacts
+# ==========================================
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+build/
+*/build/
+app/build/
+captures/
+.cxx/
+local.properties
+**/local.properties
+
+# Android application packages & binaries
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Android Studio output directories
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ==========================================
+# Security & Credential Stripping (CRITICAL)
+# ==========================================
+*.jks
+*.keystore
+*.p12
+*.bks
+keystore.properties
+key.properties
+google-services.json
+
+# ==========================================
+# Flutter / Dart / Pub Dependencies & Cache
+# ==========================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/coverage/
+**/doc/api/
+app.*.symbols
+app.*.map.json
+
+# iOS / macOS build files & caches
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/Flutter/ephemeral/
+**/Pods/
+**/DerivedData/
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+
+# ==========================================
+# OS & Workspace Metadata
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+*.log
+*.pyc
+*.swp
+*~
+.history
+.svn/
+.swiftpm/
+.atom/
+migrate_working_dir/

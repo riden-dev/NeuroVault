@@ -1,0 +1,37 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Files for the ART/Dalvik VM
+*.class
+
+# Java heap unit test profiling
+*.hprof
+
+# Built-in Android Studio and IntelliJ files
+*.iml
+.idea/
+.gradle/
+build/
+app/build/
+captures/
+.cxx/
+local.properties
+
+# Generated files
+GeneratedPluginRegistrant.java
+
+# Release and signing credentials (DO NOT COMMIT)
+*.jks
+*.keystore
+*.p12
+*.bks
+keystore.properties
+key.properties
+google-services.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db

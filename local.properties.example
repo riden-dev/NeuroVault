@@ -1,0 +1,19 @@
+## This file is a template and must *NOT* contain production secrets.
+## Copy this file to 'android/local.properties' and update the paths to match your local setup.
+## Do NOT check 'local.properties' into Version Control Systems.
+
+# Location of the Android SDK for your machine:
+# Windows example: sdk.dir=C\:\\Users\\<username>\\AppData\\Local\\Android\\sdk
+# macOS example:   sdk.dir=/Users/<username>/Library/Android/sdk
+# Linux example:   sdk.dir=/home/<username>/Android/Sdk
+sdk.dir=/path/to/android-sdk
+
+# Location of the Flutter SDK:
+# Windows example: flutter.sdk=C\:\\flutter
+# macOS/Linux:     flutter.sdk=/path/to/flutter
+flutter.sdk=/path/to/flutter
+
+# Flutter build configuration defaults
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=1
