@@ -40,11 +40,11 @@ Traditional productivity apps often fail neurodivergent users due to rigid sched
 ## Screenshots & Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/placeholder/neurovault/main/docs/screenshots/daily_track.png" alt="Daily Track Screen" width="280"/>
+  <img src="assets/icons/1.jpg" alt="App Dashboard" width="280"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/placeholder/neurovault/main/docs/screenshots/vision_detail.png" alt="Vision Detail Screen" width="280"/>
+  <img src="assets/icons/2.jpg" alt="App Dashboard" width="280"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/placeholder/neurovault/main/docs/screenshots/routine_progress.png" alt="Routine Progress Screen" width="280"/>
+  <img src="assets/icons/3.jpg" alt="App Dashboard" width="280"/>
 </p>
 
 ---
