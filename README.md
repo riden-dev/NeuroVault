@@ -40,11 +40,11 @@ Traditional productivity apps often fail neurodivergent users due to rigid sched
 ## Screenshots & Demo
 
 <p align="center">
-  <img src="assets/icons/1.jpg" alt="App Dashboard" width="280"/>
+  <img src="assets/icons/1" alt="App Dashboard" width="280"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/2.jpg" alt="App Dashboard" width="280"/>
+  <img src="assets/icons/2" alt="App Dashboard" width="280"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/3.jpg" alt="App Dashboard" width="280"/>
+  <img src="assets/icons/3" alt="App Dashboard" width="280"/>
 </p>
 
 ---
