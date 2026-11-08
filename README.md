@@ -201,4 +201,4 @@ flutter build apk --release \
 
 ## License
 
-This project is open-source software licensed under the [MIT License](LICENSE).
+This project licensed under the [MIT License](LICENSE).
